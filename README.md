@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=RYZX&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=RYZX&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=00F7FF&animation=twinkling&color=0:050816,50:12002f,100:00F7FF" />
 </p>
 
 ---
@@ -13,6 +13,15 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me
+
+```bash
+██████╗ ██╗   ██╗███████╗██╗  ██╗
+██╔══██╗╚██╗ ██╔╝╚══███╔╝╚██╗██╔╝
+██████╔╝ ╚████╔╝   ███╔╝  ╚███╔╝
+██╔══██╗  ╚██╔╝   ███╔╝   ██╔██╗
+██║  ██║   ██║   ███████╗██╔╝ ██╗
+╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 
 ```bash
 > Initializing profile...
@@ -32,10 +41,12 @@ Status: Building cool things 🚀
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212749695-58c4f26d-cd0f-4b66-8c7b-7f8b2b3c6a1b.gif" width="100%">
+
 # ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,linux,git,github,vscode,mysql" />
 </p>
 
 ---
@@ -58,6 +69,22 @@ Status: Building cool things 🚀
 
 ---
 
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryzx-py&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryzx-py/ryzx-py/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -68,16 +95,22 @@ Status: Building cool things 🚀
 
 ---
 
+# 🚀 Featured Projects
+
+```python
+projects = {
+    "Password Manager": "Secure password storage",
+    "Discord Bot": "Automation & moderation",
+    "Portfolio Website": "Modern UI website",
+}
+```
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ryzx-py&label=Profile%20Views&color=00ffff&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
-</p>
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ryzx-py/ryzx-py/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:6a11cb,100:2575fc"/>
 </p>
