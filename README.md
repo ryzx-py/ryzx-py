@@ -61,13 +61,15 @@ Status: Building cool things 🚀
 
 ---
 
-# 🧠 Top Languages
+# 🧠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,linux" />
+</p>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzx-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-
----
 
 # 📈 Activity Graph
 
