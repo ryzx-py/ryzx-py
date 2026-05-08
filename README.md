@@ -99,7 +99,7 @@ Status: Building cool things 🚀
 
 ```python
 projects = {
-    "Password Manager": "Secure password storage",
+    "Games": "Basic Games in Python",
     "Discord Bot": "Automation & moderation",
     "Portfolio Website": "Modern UI website",
 }
